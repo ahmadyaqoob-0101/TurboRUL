@@ -1,0 +1,8 @@
+{
+  "model_name": "Gradient Boosting Regressor",
+  "mae": 10.67251,
+  "rmse": 13.81492,
+  "r2": 0.95529,
+  "n_features": 12,
+  "training_samples": 15679
+}
